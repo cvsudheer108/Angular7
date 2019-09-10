@@ -6,4 +6,6 @@ This is an angular application for displaing the news feed and have the followin
 4. Consming external services for news Feed
 5. Progress bar etc.
 
+---EOF---
+
 
